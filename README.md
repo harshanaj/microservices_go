@@ -27,3 +27,5 @@ downlaod docker and insrtall
 To run frontend
 go run ./cmd/web
 
+init broker-service (create mod file)
+go mod init broker
