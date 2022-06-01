@@ -23,3 +23,7 @@ install make
 choco install make
 
 downlaod docker and insrtall
+
+To run frontend
+go run ./cmd/web
+
